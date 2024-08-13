@@ -2,10 +2,14 @@
 
 This project is a React-based sales dashboard application that visualizes sales data using charts and tables. It features two main dashboards: Today's Sales and Sales Comparison.
 
-### 🔗 Hosted link: [Sales Dashboard]()
+### 🔗 Hosted link: [Sales Dashboard](https://keen-wisp-277613.netlify.app/)
 
 ## 🧑‍💻Screenshots
-<img src="" width="500px">
+<img src="https://github.com/AniketMujbaile/sales-dashboard/blob/main/Img/Img1.png" width="500px">
+<hr/>
+<img src="https://github.com/AniketMujbaile/sales-dashboard/blob/main/Img/Img2.png" width="500px">
+<hr/>
+<img src="https://github.com/AniketMujbaile/sales-dashboard/blob/main/Img/Img3.png" width="500px">
 <hr/>
 
 ## ✨Features
