@@ -10,7 +10,7 @@ function TableComponent({ data, columns }) {
     resizable: true,
   }), []);
 
-  const paginationPageSize = 5;
+  const paginationPageSize = 8;
 
   return (
     <div className="ag-theme-alpine w-full h-[500px]">

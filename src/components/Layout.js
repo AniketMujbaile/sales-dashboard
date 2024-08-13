@@ -6,8 +6,8 @@ function Layout({ children }) {
 
   return (
     <div className="min-h-screen bg-gray-100">
-      <nav className="bg-white shadow-lg">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 bg-gray-200">
+      <nav className="shadow-lg bg-gray-300">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
           <div className="flex justify-between h-16 ">
             <div className="flex">
               <div className="flex-shrink-0 flex items-center">
