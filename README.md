@@ -26,7 +26,7 @@ This project is a React-based sales dashboard application that visualizes sales 
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/sales-dashboard.git
+git clone https://github.com/AniketMujbaile/sales-dashboard.git
 ```bash
 cd sales-dashboard
 ```
